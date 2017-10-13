@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-sadasdasdasdasdasdasdsad
-=======
-weqweqweqwe
->>>>>>> d3ca6b7408dde7fc5388699a4b21f01c4eec8194
+<HTML>
+<body>
+  <p> hello word</p>
+</body>
+</HTML>
